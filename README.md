@@ -31,3 +31,8 @@ Python is used by companies such as Google, Intel, IBM, NASA, Pixar, Netflix, Fa
 
 <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/10/Why-Python-in-demand.jpg">
 
+### What kind of salaries can you find for Python skilled professionals?
+
+<img src="https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/06/Python-developer-salary-by-industry.jpg">
+
+
