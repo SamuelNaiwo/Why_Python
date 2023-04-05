@@ -23,3 +23,7 @@
 
 <img src="https://www.evisiontechnoserve.com/img/python-auto-career.png" width="400">
 
+### Who is using Python?
+
+Python is used by companies such as Google, Intel, IBM, NASA, Pixar, Netflix, Facebook, JP Morgan, Spotify, and Instagram.
+
