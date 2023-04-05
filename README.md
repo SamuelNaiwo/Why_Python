@@ -7,3 +7,19 @@
 - Easily written and much faster than other programming languages.
 - Uses simple syntax making it easier to read.
 - It's a free and open source.
+
+### What are some different ways Python is used?
+
+- AI and Machine Learning
+- Data Analytics
+- Programming Applications
+- Web Development
+- Game Development
+- Finance
+- Scripting
+- SEO
+- Automation
+- Blockchain
+
+<img src="https://www.evisiontechnoserve.com/img/python-auto-career.png" width="400">
+
