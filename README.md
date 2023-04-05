@@ -27,3 +27,7 @@
 
 Python is used by companies such as Google, Intel, IBM, NASA, Pixar, Netflix, Facebook, JP Morgan, Spotify, and Instagram.
 
+### Why is Python in demand as a skill?
+
+<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/10/Why-Python-in-demand.jpg">
+
